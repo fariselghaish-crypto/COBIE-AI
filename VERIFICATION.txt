@@ -1,0 +1,8 @@
+Verification report\ncontains_applymap: False
+contains_style_applymap: False
+contains_filtered_style: False
+contains_openai_Anthropic: False
+contains_Anthropic: False
+contains_anthropic_lower: False
+contains_OPENAI_API_KEY: True
+contains_plain_filtered_dataframe: True
